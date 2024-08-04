@@ -1,4 +1,4 @@
-# Quick Cal 
+# Tetris Game
 ### Description:
 This is by far one of my most tedious java projects. My parthner and i were tasked with implementing the classic Tetris game in java. We created multiple classses and functions which handled certain functionalities of the game. The project had a total of 11 classes. The Game class alone, which controled everything partaining the gameplay, housed a total of 28 functions controlling a varity of the game mechanics. After the completion of this project i fully acknowledged that any coding problem can be solved if broken into bits.
 
